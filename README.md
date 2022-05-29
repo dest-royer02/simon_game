@@ -1,1 +1,2 @@
-# simon_game
+# simongame
+Basic Simon Game 
